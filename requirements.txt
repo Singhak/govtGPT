@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+python-dotenv
+pypdf
+langchain-text-splitters
+qdrant-client
+langchain-qdrant
+rank-bm25
+langgraph
+fastapi
+uvicorn

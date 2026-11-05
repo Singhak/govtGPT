@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+chroma_db/
+logs/
+artifacts/
+qdrant_db*/
+data_txt/
+*.pyc
+.vscode/
